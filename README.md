@@ -1,6 +1,6 @@
 # Hangi Burçsunuz?
 
-## Java koşullu karar yapılarını kullarak hang burç olduğunuzu öğrenebildiğiniz program.
+## Java koşullu karar yapılarını kullanarak hangi burç olduğunuzu öğrenebildiğiniz program.
 
 **Koç Burcu :** 21 Mart - 20 Nisan
 
